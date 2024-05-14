@@ -1,7 +1,3 @@
-;  Name: Hetavi Gheewala
-;  NSHE_ID: 5007613723
-;  Section: 1003
-;  Assignment:  4
 ;  Description: This program analyzes a list of signed double-word integers.
 ;              It calculates the minimum, estimated median value, maximum, sum, and
 ;              integer average. The program also calculates statistics for negative numbers and those divisible by twelve,
